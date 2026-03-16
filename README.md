@@ -17,8 +17,3 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<br>
-
-![Discord Presence](https://lanyard.cnrad.dev/api/725929782931619929?hideProfile=true&hideStatus=true&hideBadges=true)
-
-</div>
