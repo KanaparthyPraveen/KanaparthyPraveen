@@ -1,20 +1,24 @@
+<div align="center">
 
-```
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │ ●  ●  ●                Command Prompt                        │
 ├──────────────────────────────────────────────────────────────┤
-│ $ echo "hello, i'm praveen"                                  │
-│   hello, i'm praveen                                         │
 │                                                              │
-│ $ whoami                                                     │
-│ praveen                                                      │
+│                           > whoami                           │
+│                             praveen                          │
 │                                                              │
-│ $ role                                                       │
-│ developer                                                    │
+│                         > fetch role                         │
+│                           developer                          │
 │                                                              │
-│ $ echo "welcome to my profile!"                              │
-│ welcome to my profile!                                       │
+│                     > cat interests.txt                      │
+│                       coding & building                      │
+│                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
+<br>
+
 ![Discord Presence](https://lanyard.cnrad.dev/api/725929782931619929)
+
+</div>
