@@ -12,7 +12,7 @@
 │                           Student                            │
 │                                                              │
 │                     > cat interests.txt                      │
-│                       coding & building                      │
+│                       tech & building                        │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
